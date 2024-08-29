@@ -11,8 +11,8 @@ NOTE: In Every File, Kindly replace the locations of files by identifying them c
 NOTE: By Running "KnowSubs.ps1" File you can execute other files and thus in one click you will be able to know no. Of Subscribers on different Channels.
 
 For Play_Pause: Note: You must install all the required libraries before running the code:
-pip install pyttsx3
-pip install beautifulsoup4
-pip install requests
-pip install SpeechRecognition
-pip install PyAudio
+"pip install pyttsx3"
+"pip install beautifulsoup4"
+"pip install requests"
+"pip install SpeechRecognition"
+"pip install PyAudio"
